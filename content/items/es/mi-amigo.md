@@ -1,3 +1,3 @@
 ---
-title: Mi amigoa
+title: Mi amigoaa
 ---
