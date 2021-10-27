@@ -1,3 +1,3 @@
 ---
-title: My friend
+title: My frienda
 ---
